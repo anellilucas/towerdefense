@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3918C07E-43B9-D212-EC8E-DE44C34DD107}") = "jogolucas", "Assembly-CSharp-firstpass.csproj", "{794FE2D5-667D-9978-1032-7EEBC2AB3E15}"
+EndProject
+Project("{3918C07E-43B9-D212-EC8E-DE44C34DD107}") = "jogolucas", "Assembly-CSharp.csproj", "{E84687DB-DACC-4427-169D-ADB45511E6D7}"
+EndProject
+Project("{3918C07E-43B9-D212-EC8E-DE44C34DD107}") = "jogolucas", "Assembly-CSharp-Editor-firstpass.csproj", "{3FD6E873-C09D-57F7-7324-2794E05AB3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794FE2D5-667D-9978-1032-7EEBC2AB3E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794FE2D5-667D-9978-1032-7EEBC2AB3E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794FE2D5-667D-9978-1032-7EEBC2AB3E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794FE2D5-667D-9978-1032-7EEBC2AB3E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84687DB-DACC-4427-169D-ADB45511E6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84687DB-DACC-4427-169D-ADB45511E6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84687DB-DACC-4427-169D-ADB45511E6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84687DB-DACC-4427-169D-ADB45511E6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD6E873-C09D-57F7-7324-2794E05AB3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD6E873-C09D-57F7-7324-2794E05AB3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD6E873-C09D-57F7-7324-2794E05AB3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD6E873-C09D-57F7-7324-2794E05AB3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

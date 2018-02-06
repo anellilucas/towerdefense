@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: e3080a1007c6b48d7a97edb9cdbbef34
+timeCreated: 1503006474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torus_000
+    100004: Torus_001
+    100006: Torus_002
+    100008: CloudBounds
+    100010: CloudBounds_001
+    100012: CloudBounds_002
+    100014: CloudMesh
+    100016: CloudMesh_001
+    100018: CloudMesh_001_MeshPart0
+    100020: CloudMesh_001_MeshPart1
+    100022: CloudMesh_002
+    100024: CloudMesh_002_MeshPart0
+    100026: CloudMesh_002_MeshPart1
+    100028: CloudMesh_MeshPart0
+    100030: CloudMesh_MeshPart1
+    100032: CloudPoints
+    100034: CloudPoints_001
+    100036: CloudPoints_002
+    100038: DefinitioinObj
+    100040: DefinitioinObj_001
+    100042: DefinitioinObj_002
+    100044: Torus_012
+    100046: Torus_003
+    100048: Torus_017
+    400000: //RootNode
+    400002: Torus_000
+    400004: Torus_001
+    400006: Torus_002
+    400008: CloudBounds
+    400010: CloudBounds_001
+    400012: CloudBounds_002
+    400014: CloudMesh
+    400016: CloudMesh_001
+    400018: CloudMesh_001_MeshPart0
+    400020: CloudMesh_001_MeshPart1
+    400022: CloudMesh_002
+    400024: CloudMesh_002_MeshPart0
+    400026: CloudMesh_002_MeshPart1
+    400028: CloudMesh_MeshPart0
+    400030: CloudMesh_MeshPart1
+    400032: CloudPoints
+    400034: CloudPoints_001
+    400036: CloudPoints_002
+    400038: DefinitioinObj
+    400040: DefinitioinObj_001
+    400042: DefinitioinObj_002
+    400044: Torus_012
+    400046: Torus_003
+    400048: Torus_017
+    2300000: Torus_000
+    2300002: Torus_001
+    2300004: Torus_002
+    2300006: CloudBounds
+    2300008: CloudBounds_001
+    2300010: CloudBounds_002
+    2300012: CloudMesh_001_MeshPart0
+    2300014: CloudMesh_001_MeshPart1
+    2300016: CloudMesh_002_MeshPart0
+    2300018: CloudMesh_002_MeshPart1
+    2300020: CloudMesh_MeshPart0
+    2300022: CloudMesh_MeshPart1
+    2300024: CloudPoints
+    2300026: CloudPoints_001
+    2300028: CloudPoints_002
+    2300030: DefinitioinObj
+    2300032: DefinitioinObj_001
+    2300034: DefinitioinObj_002
+    2300036: Torus_012
+    2300038: Torus_003
+    2300040: Torus_017
+    3300000: Torus_000
+    3300002: Torus_001
+    3300004: Torus_002
+    3300006: CloudBounds
+    3300008: CloudBounds_001
+    3300010: CloudBounds_002
+    3300012: CloudMesh_001_MeshPart0
+    3300014: CloudMesh_001_MeshPart1
+    3300016: CloudMesh_002_MeshPart0
+    3300018: CloudMesh_002_MeshPart1
+    3300020: CloudMesh_MeshPart0
+    3300022: CloudMesh_MeshPart1
+    3300024: CloudPoints
+    3300026: CloudPoints_001
+    3300028: CloudPoints_002
+    3300030: DefinitioinObj
+    3300032: DefinitioinObj_001
+    3300034: DefinitioinObj_002
+    3300036: Torus_012
+    3300038: Torus_003
+    3300040: Torus_017
+    4300000: Torus_002
+    4300002: Torus_000
+    4300004: Torus_001
+    4300006: CloudBounds_002
+    4300008: CloudMesh_002_MeshPart0
+    4300010: CloudMesh_002_MeshPart1
+    4300012: CloudPoints_002
+    4300014: DefinitioinObj_002
+    4300016: CloudBounds_001
+    4300018: CloudMesh_001_MeshPart0
+    4300020: CloudMesh_001_MeshPart1
+    4300022: CloudPoints_001
+    4300024: DefinitioinObj
+    4300026: CloudBounds
+    4300028: CloudMesh_MeshPart0
+    4300030: CloudMesh_MeshPart1
+    4300032: CloudPoints
+    4300034: DefinitioinObj_001
+    4300036: Torus_012
+    4300038: Torus_003
+    4300040: Torus_017
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
