@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{97377039-7177-1655-3F5A-84BE02A3A54E}") = "towerdefense", "Assembly-CSharp-firstpass.csproj", "{598CFC52-CF56-6854-742F-2F81B6AAD9EE}"
+EndProject
+Project("{97377039-7177-1655-3F5A-84BE02A3A54E}") = "towerdefense", "Assembly-CSharp.csproj", "{8F55B09B-8FE2-53A2-6D2E-3371ACEF65BC}"
+EndProject
+Project("{97377039-7177-1655-3F5A-84BE02A3A54E}") = "towerdefense", "Assembly-CSharp-Editor-firstpass.csproj", "{6286CD0F-AA65-C0BC-8C4E-1D32857F7D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598CFC52-CF56-6854-742F-2F81B6AAD9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598CFC52-CF56-6854-742F-2F81B6AAD9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598CFC52-CF56-6854-742F-2F81B6AAD9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598CFC52-CF56-6854-742F-2F81B6AAD9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F55B09B-8FE2-53A2-6D2E-3371ACEF65BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F55B09B-8FE2-53A2-6D2E-3371ACEF65BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F55B09B-8FE2-53A2-6D2E-3371ACEF65BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F55B09B-8FE2-53A2-6D2E-3371ACEF65BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6286CD0F-AA65-C0BC-8C4E-1D32857F7D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6286CD0F-AA65-C0BC-8C4E-1D32857F7D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6286CD0F-AA65-C0BC-8C4E-1D32857F7D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6286CD0F-AA65-C0BC-8C4E-1D32857F7D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
