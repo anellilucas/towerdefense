@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\Turret.cs" />
      <Compile Include="Assets\Scripts\TurretBluePrint.cs" />
      <Compile Include="Assets\Scripts\WaveSpawner.cs" />
+     <Compile Include="Assets\Scripts\Waves.cs" />
      <Compile Include="Assets\Scripts\Waypoints.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
