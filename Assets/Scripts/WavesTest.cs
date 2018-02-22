@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Waves : MonoBehaviour {
+public class WavesTest : MonoBehaviour {
 
 	public GameObject enemy;
 	public Transform spawnPoint;
 
-	public void unleashWave()
+	public void unleashNextWave()
 	{
 		Instantiate (enemy, spawnPoint.position, spawnPoint.rotation);
 	}

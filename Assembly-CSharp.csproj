@@ -66,10 +66,12 @@
      <Compile Include="Assets\Scripts\Spin2.cs" />
      <Compile Include="Assets\Scripts\Spin3.cs" />
      <Compile Include="Assets\Scripts\SpinFast.cs" />
+     <Compile Include="Assets\Scripts\TesteWave.cs" />
      <Compile Include="Assets\Scripts\Turret.cs" />
      <Compile Include="Assets\Scripts\TurretBluePrint.cs" />
+     <Compile Include="Assets\Scripts\Wave.cs" />
      <Compile Include="Assets\Scripts\WaveSpawner.cs" />
-     <Compile Include="Assets\Scripts\Waves.cs" />
+     <Compile Include="Assets\Scripts\WavesTest.cs" />
      <Compile Include="Assets\Scripts\Waypoints.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
